@@ -1,0 +1,77 @@
+@font-face {
+    font-family: Gabarito;
+    src: url(/download/18.5ec672fa18b1d1cc6ee1/1697008719218/Gabarito-Black.ttf) format('woff2'),
+    url(/download/18.5ec672fa18b1d1cc6ee1/1697008719218/Gabarito-Black.ttf) format('woff'),
+    url(/download/18.5ec672fa18b1d1cc6ee1/1697008719218/Gabarito-Black.ttf) format('eot'), 
+    url(/download/18.5ec672fa18b1d1cc6ee1/1697008719218/Gabarito-Black.ttf) format('ttf')
+    ;
+    
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    }
+
+@font-face {
+    font-family: Gabarito;
+    src: url(/download/18.5ec672fa18b1d1cc6ee2/1697008719979/Gabarito-Bold.ttf) format('woff2'),
+    url(/download/18.5ec672fa18b1d1cc6ee2/1697008719979/Gabarito-Bold.ttf) format('woff'),
+    url(/download/18.5ec672fa18b1d1cc6ee2/1697008719979/Gabarito-Bold.ttf) format('eot'), 
+    url(/download/18.5ec672fa18b1d1cc6ee2/1697008719979/Gabarito-Bold.ttf) format('ttf')
+    ;
+    
+    font-weight: 100;
+    font-style: bold;
+    font-display: swap;
+    }
+
+@font-face {
+    font-family: Gabarito;
+    src: url(/download/18.5ec672fa18b1d1cc6ee3/1697008720012/Gabarito-ExtraBold.ttf) format('woff2'),
+    url(/download/18.5ec672fa18b1d1cc6ee3/1697008720012/Gabarito-ExtraBold.ttf) format('woff'),
+    url(/download/18.5ec672fa18b1d1cc6ee3/1697008720012/Gabarito-ExtraBold.ttf) format('eot'), 
+    url(/download/18.5ec672fa18b1d1cc6ee3/1697008720012/Gabarito-ExtraBold.ttf) format('ttf')
+    ;
+    
+    font-weight: 100;
+    font-style: bold;
+    font-display: swap;
+    }
+
+@font-face {
+    font-family: Gabarito;
+    src: url(/download/18.5ec672fa18b1d1cc6ee4/1697008720039/Gabarito-Medium.ttf) format('woff2'),
+    url(/download/18.5ec672fa18b1d1cc6ee4/1697008720039/Gabarito-Medium.ttf) format('woff'),
+    url(/download/18.5ec672fa18b1d1cc6ee4/1697008720039/Gabarito-Medium.ttf) format('eot'), 
+    url(/download/18.5ec672fa18b1d1cc6ee4/1697008720039/Gabarito-Medium.ttf) format('ttf')
+    ;
+    
+    font-weight: 100;
+    font-style: medium;
+    font-display: swap;
+    }
+
+@font-face {
+    font-family: Gabarito;
+    src: url(/download/18.5ec672fa18b1d1cc6ee5/1697008720058/Gabarito-Regular.ttf) format('woff2'),
+    url(/download/18.5ec672fa18b1d1cc6ee5/1697008720058/Gabarito-Regular.ttf) format('woff'),
+    url(/download/18.5ec672fa18b1d1cc6ee5/1697008720058/Gabarito-Regular.ttf) format('eot'), 
+    url(/download/18.5ec672fa18b1d1cc6ee5/1697008720058/Gabarito-Regular.ttf) format('ttf')
+    ;
+    
+    font-weight: 100;
+    font-style: light;
+    font-display: swap;
+    }
+
+@font-face {
+    font-family: Gabarito;
+    src: url(/download/18.5ec672fa18b1d1cc6ee6/1697008720081/Gabarito-SemiBold.ttf) format('woff2'),
+    url(/download/18.5ec672fa18b1d1cc6ee6/1697008720081/Gabarito-SemiBold.ttf) format('woff'),
+    url(/download/18.5ec672fa18b1d1cc6ee6/1697008720081/Gabarito-SemiBold.ttf) format('eot'), 
+    url(/download/18.5ec672fa18b1d1cc6ee6/1697008720081/Gabarito-SemiBold.ttf) format('ttf')
+    ;
+    
+    font-weight: 100;
+    font-style: light;
+    font-display: swap;
+    }
